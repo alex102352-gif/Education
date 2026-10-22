@@ -1,0 +1,2 @@
+For this project I will be using pandas and numpy for reading the data and doing math compulations
+matplotib, seaborn,statmodels,sklearn for graphing and doing calculations on the data

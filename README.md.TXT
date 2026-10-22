@@ -1,1 +1,0 @@
-For this project I would like to compare the community and where someone live truly effects how high their ACT or SAT maybe. I want to know does it matter if the community safe or not to have a high ACT.
